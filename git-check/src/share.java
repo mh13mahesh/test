@@ -3,7 +3,7 @@ public class share {
 
 	public static void main(String[] args) {
 
-		System.out.println("first kk limnereee");
+		System.out.println("first kk limnxxxereee");
 	}
 
 }
